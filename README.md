@@ -15,3 +15,4 @@ It is not an IDE Layer! It is only a neovim config.
 - **Consistent experience:** consistent experience between terminal and gui.
 - **Easy to use:** You can easy to use it to coding, no additional configuration is required.
 ## Screenshots:
+
