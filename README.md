@@ -15,6 +15,6 @@ It is not an IDE Layer! It is only a neovim config.
 - **Consistent experience:** consistent experience between terminal and gui.
 - **Easy to use:** You can easy to use it to coding, no additional configuration is required.
 ## Screenshots:
-[![1.png](https://github.com/wwWT000/SpaceNvim/1.png)]
-[![1.png](https://github.com/wwWT000/SpaceNvim/2.png)]
+[![1.png](https://github.com/wwWT000/SpaceNvim/blob/main/1.png)]
+[![1.png](https://github.com/wwWT000/SpaceNvim/blob/main/2.png)]
 
